@@ -1,2 +1,10 @@
 The <title> tag determines what's displayed in the window or tab for a web page. It comes after the <head> tag </head>
 Alt provides an alternative text for an image if the image can not be displayed
+<table> <tr> <th> </tr> <tr><td></tr></table>
+Block elements have top and bottom margins. Inline elements don't have a top and bottom margin.Inline elements only cover the space as bounded by the tags in the HTML element. 
+<dt> <p> <video> <dl> <header> 
+ <a> <abbr><button><input><samp>
+href attribute specifies the location of a URL  while the src attribute is used to embed a resource
+HTML elements are everythign in between html tags. Elements hold the content while tags start and finish them.
+<head><body></body></head>
+The <script> tag can be placed in the <head> section of your HTML or in the <body> section, depending on when you want javascript to load
